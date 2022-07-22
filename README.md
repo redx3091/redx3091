@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redx3091
 - 👀 I’m interested in Projexts with Nodejs and lear React and more about JavaScript
-- 🌱 I’m currently learning NodeJS and ReactJS
-- 💞️ I’m looking to collaborate on Any Proyect with React and Node
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking to collaborate on Any Proyect with Node
 
 
 <!---
