@@ -6,6 +6,9 @@
 - 
 
 [![@redx30's Holopin board](https://holopin.io/api/user/board?user=redx30)](https://holopin.io/@redx30)
+
+[redx3091](https://github-readme-stats.vercel.app/api?username=redx3091&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=redx3091&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=redx3091&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!---
 redx3091/redx3091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
