@@ -7,7 +7,7 @@
 
 [![@redx30's Holopin board](https://holopin.io/api/user/board?user=redx30)](https://holopin.io/@redx30)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redx3091&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redx30&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 redx3091/redx3091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
